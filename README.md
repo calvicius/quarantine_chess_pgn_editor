@@ -1,3 +1,7 @@
+# Abandoned
+
+see new (rewritten from scratch) : https://github.com/calvicius/rsChessPgnEditor
+
 # quarantine_chess_pgn_editor
 
 An editor of chess games in pgn format; written in Rustc and GTK3.
